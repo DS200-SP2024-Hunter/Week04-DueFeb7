@@ -4,7 +4,7 @@
 
 The main objective of today's lab is to test a hypothesis using a statistic that is very difficult to analyze theoretically but relatively easy to simulate.  A secondary objective is to give you a bit of practice writing and adapting code; if you're new to programming, this assignment may stretch you a bit but please seek help as needed because we don't intend for the programming to become a major obstacle.
 
-**Before you start**:  Without using any kind of a computer, type a sequence of 200 coin flips, using the letters H and T, that you generate yourself.  Your goal is to mimic a random sequence of coin flips as well as you're able to do so.  (Yes, it's a bit tedious, but there's a point!)
+**Before you start**:  Without using any kind of coding, type a sequence of 200 coin flips by hand, using the letters H and T, that you generate yourself.  Your goal is to mimic a random sequence of coin flips as well as you're able to do so.  Yes, it's a bit tedious, but there's a point!
 
 Once you've written down your sequence, count the number of changes (from Heads to Tails or Tails to Heads) in your sequence.  For example, the 8-flip sequence H H T T H H T T has three changes.
 
