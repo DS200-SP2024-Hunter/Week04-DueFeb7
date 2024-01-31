@@ -1,6 +1,6 @@
 # Lab Assignment for Week 04
 ## Simulation-based hypothesis testing for coin flip sequences
-## Due on [Canvas](https://psu.instructure.com/courses/2306358/) on Wed., Feb. 7 at 11:59pm
+## Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/15951415) on Wed., Feb. 7 at 11:59pm
 
 The main objective of today's lab is to test a hypothesis using a statistic that is very difficult to analyze theoretically but relatively easy to simulate.  A secondary objective is to give you a bit of practice writing and adapting code; if you're new to programming, this assignment may stretch you a bit but please seek help as needed because we don't intend for the programming to become a major obstacle.
 
