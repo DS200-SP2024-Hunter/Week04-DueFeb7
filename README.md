@@ -2,6 +2,8 @@
 ## Simulation-based hypothesis testing for coin flip sequences
 ## Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/15951415) on Wed., Feb. 7 at 11:59pm
 
+**On this and all labs: When you have a choice between the [datascience package](https://www.data8.org/datascience/) and the [pandas library](https://pandas.pydata.org/docs/), you are free to use either method to complete your work.**
+
 The main objective of today's lab is to test a hypothesis using a statistic that is very difficult to analyze theoretically but relatively easy to simulate.  A secondary objective is to give you a bit of practice writing and adapting code; if you're new to programming, this assignment may stretch you a bit but please seek help as needed because we don't intend for the programming to become a major obstacle.
 
 **Before you start**:  Without using any kind of coding, type a sequence of 200 coin flips by hand, using the letters H and T, that you generate yourself.  Your goal is to mimic a random sequence of coin flips as well as you're able to do so.  Yes, it's a bit tedious, but there's a point!
